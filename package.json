@@ -1,5 +1,5 @@
 {
-  "name": "@lidojs/design-core",
+  "name": "design-core",
   "version": "1.0.1",
   "main": "./index.js",
   "types": "./index.d.ts",
